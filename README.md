@@ -9,7 +9,6 @@ I enjoy web development and I love learning new technologies. I am always lookin
 >- 🔭 I’m currently working in personal projects
 >- 🌱 I’m currently learning about javaScript
 >- 🎒 Currently studying
->-d
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+js+❤️)](https://git.io/typing-svg)
 ## 💻 Skills
 
