@@ -4,12 +4,13 @@ My name is sebastian, i am a big fan of javascript and everything related <br>
 
 I enjoy web development and I love learning new technologies. I am always looking for new challenges and opportunities to grow.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+js+❤️)](https://git.io/typing-svg)
 <br>
-
 >- 🔭 I’m currently working in personal projects
 >- 🌱 I’m currently learning about javaScript
 >- 🎒 Currently studying
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+js+❤️)](https://git.io/typing-svg)
+
+
 ## 💻 Skills
 
 <div>
