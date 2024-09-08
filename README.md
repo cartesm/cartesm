@@ -11,8 +11,8 @@ el programa el que hace la programacion. 👨‍💻
 >- 🔭 Actualmente creando projectos personales para desafiarme
 >- 🌱 Un gran fan de JavaScript
 >- 🎒 Actualmente estudiando Analista Programdor en CFT San Agustin
->  💿 Me encanta escuchar musica mientras programo
->  🐹 Las cobayas son mi animal preferido... no tengo ninguna por ahora
+>-  💿 Me encanta escuchar musica mientras programo
+>-  🐹 Las cobayas son mi animal preferido... no tengo ninguna por ahora
 
 
 ## 💻 Skills/Habilidades
