@@ -1,42 +1,13 @@
-# Hola 🤘 <img src="https://media.tenor.com/FH7zIvZC8e0AAAAi/anime-girl.gif" width="50" />
+<h1 align="center">Hi 👋, I'm Sebastian Cartes</h1>
+<h3 align="center">A passionate web developer from Chile</h3>
 
-Me llamo sebastian cartes y soy un desarrollador web en constante aprendizaje<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-No se trata del lenguaje de programacion que uses, es el programador quien programa <br> 
-el programa el que hace la programacion. 👨‍💻
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+js+❤️)](https://git.io/typing-svg)
-<br>
->- 🎉 Ganador Inacap TP21 año 2023
->- 🔭 Actualmente creando projectos personales para desafiarme
->- 🌱 Un gran fan de JavaScript
->- 🎒 Actualmente estudiando Analista Programdor en CFT San Agustin
->-  💿 Me encanta escuchar musica mientras programo
->-  🐹 Las cobayas son mi animal preferido... no tengo ninguna por ahora
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cartesm&show_icons=true&locale=en&layout=compact" alt="cartesm" /></p>
 
-
-## 💻 Skills/Habilidades
-
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javaScript" title="javascript" width="50" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="javaScript" title="javascript" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="javaScript" title="javascript" width="50" />
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="javaScript" title="javascript" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestJs" title="nestJs" width="50" />
-    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="PostMan" title="PostMan" width="50" />
-    <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="javaScript" title="javascript" width="50" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="javaScript" title="javascript" width="50" />   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" title="javascript" width="50" />   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="javaScript" title="javascript" width="50" />  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="javaScript" title="javascript" width="50" />    
-    
-</div>
-
-## 👍 Con nociones de...
-
-<div>
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="javaScript" title="javascript" width="50" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" alt="javaScript" title="javascript" width="50" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="javaScript" title="javascript" width="50" />   
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cartesm&" alt="cartesm" /></p>
